@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>crypto-app</artifactId>
+  <packaging>jar</packaging>
+  <name>BX-bot App</name>
+  <description>Builds the distributable BX-bot app</description>
+  <url>http://github.com/gazbert/crypto</url>
+  <parent>
+    <groupId>com.gazbert.crypto</groupId>
+    <artifactId>crypto-parent</artifactId>
+    <version>${revision}</version>
+  </parent>
+  <properties>
+    <start-class>com.gazbert.crypto.crypto</start-class>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>crypto-trading-api</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>crypto-strategy-api</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>crypto-exchange-api</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>crypto-strategies</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>crypto-exchanges</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>crypto-domain-objects</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>crypto-yaml-datastore</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>crypto-repository</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>crypto-core</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+    <dependency>
+      <groupId>${project.groupId}</groupId>
+      <artifactId>crypto-rest-api</artifactId>
+      <version>${project.version}</version>
+    </dependency>
+
+    <!-- Add your (optional) Trading Strategies here -->
+    <!--<dependency>-->
+    <!--<groupId>com.gazbert.crypto</groupId>-->
+    <!--<artifactId>crypto-strategies</artifactId>-->
+    <!--<version>7.0.1-SNAPSHOT</version>-->
+    <!--<scope>runtime</scope>-->
+    <!--</dependency>-->
+
+    <!-- Add your (optional) Exchange Adapters here -->
+    <!--<dependency>-->
+    <!--<groupId>com.your.stuff</groupId>-->
+    <!--<artifactId>your-custom-exchanges</artifactId>-->
+    <!--<version>1.0-SNAPSHOT</version>-->
+    <!--<scope>runtime</scope>-->
+    <!--</dependency>-->
+
+  </dependencies>
+  <build>
+    <defaultGoal>clean install</defaultGoal>
+    <plugins>
+      <plugin>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-maven-plugin</artifactId>
+        <executions>
+          <execution>
+            <goals>
+              <goal>repackage</goal>
+            </goals>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+</project>

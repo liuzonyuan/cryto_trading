@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework:spring-beans:5.1.14.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.14.RELEASE/c0dec97d0ba121e14c7f8ad6fcff16b9278f56e6/spring-beans-5.1.14.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.14.RELEASE/73442f1c09800e1af98445293a89548430d7be4/spring-beans-5.1.14.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

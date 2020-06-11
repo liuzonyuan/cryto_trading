@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/bxbot-app" />
+            <option value="$PROJECT_DIR$/bxbot-core" />
+            <option value="$PROJECT_DIR$/bxbot-domain-objects" />
+            <option value="$PROJECT_DIR$/bxbot-exchange-api" />
+            <option value="$PROJECT_DIR$/bxbot-exchanges" />
+            <option value="$PROJECT_DIR$/bxbot-repository" />
+            <option value="$PROJECT_DIR$/bxbot-rest-api" />
+            <option value="$PROJECT_DIR$/bxbot-services" />
+            <option value="$PROJECT_DIR$/bxbot-strategies" />
+            <option value="$PROJECT_DIR$/bxbot-strategy-api" />
+            <option value="$PROJECT_DIR$/bxbot-trading-api" />
+            <option value="$PROJECT_DIR$/bxbot-yaml-datastore" />
+          </set>
+        </option>
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

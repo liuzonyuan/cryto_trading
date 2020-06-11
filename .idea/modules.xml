@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-app/bxbot-parent.bxbot-app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-app/bxbot-parent.bxbot-app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-app/bxbot-parent.bxbot-app.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-app/bxbot-parent.bxbot-app.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-core/bxbot-parent.bxbot-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-core/bxbot-parent.bxbot-core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-core/bxbot-parent.bxbot-core.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-core/bxbot-parent.bxbot-core.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-domain-objects/bxbot-parent.bxbot-domain-objects.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-domain-objects/bxbot-parent.bxbot-domain-objects.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-domain-objects/bxbot-parent.bxbot-domain-objects.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-domain-objects/bxbot-parent.bxbot-domain-objects.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-exchange-api/bxbot-parent.bxbot-exchange-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-exchange-api/bxbot-parent.bxbot-exchange-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-exchange-api/bxbot-parent.bxbot-exchange-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-exchange-api/bxbot-parent.bxbot-exchange-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-exchanges/bxbot-parent.bxbot-exchanges.integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-exchanges/bxbot-parent.bxbot-exchanges.integrationTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-exchanges/bxbot-parent.bxbot-exchanges.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-exchanges/bxbot-parent.bxbot-exchanges.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-exchanges/bxbot-parent.bxbot-exchanges.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-exchanges/bxbot-parent.bxbot-exchanges.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-repository/bxbot-parent.bxbot-repository.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-repository/bxbot-parent.bxbot-repository.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-repository/bxbot-parent.bxbot-repository.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-repository/bxbot-parent.bxbot-repository.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-rest-api/bxbot-parent.bxbot-rest-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-rest-api/bxbot-parent.bxbot-rest-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-rest-api/bxbot-parent.bxbot-rest-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-rest-api/bxbot-parent.bxbot-rest-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-services/bxbot-parent.bxbot-services.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-services/bxbot-parent.bxbot-services.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-services/bxbot-parent.bxbot-services.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-services/bxbot-parent.bxbot-services.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-strategies/bxbot-parent.bxbot-strategies.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-strategies/bxbot-parent.bxbot-strategies.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-strategies/bxbot-parent.bxbot-strategies.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-strategies/bxbot-parent.bxbot-strategies.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-strategy-api/bxbot-parent.bxbot-strategy-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-strategy-api/bxbot-parent.bxbot-strategy-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-strategy-api/bxbot-parent.bxbot-strategy-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-strategy-api/bxbot-parent.bxbot-strategy-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-trading-api/bxbot-parent.bxbot-trading-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-trading-api/bxbot-parent.bxbot-trading-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-trading-api/bxbot-parent.bxbot-trading-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-trading-api/bxbot-parent.bxbot-trading-api.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-yaml-datastore/bxbot-parent.bxbot-yaml-datastore.main.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-yaml-datastore/bxbot-parent.bxbot-yaml-datastore.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-yaml-datastore/bxbot-parent.bxbot-yaml-datastore.test.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-yaml-datastore/bxbot-parent.bxbot-yaml-datastore.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-app/crypto-parent.crypto-app.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-app/crypto-parent.crypto-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-core/crypto-parent.crypto-core.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-core/crypto-parent.crypto-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-domain-objects/crypto-parent.crypto-domain-objects.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-domain-objects/crypto-parent.crypto-domain-objects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-exchanges/crypto-parent.crypto-exchanges.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-exchanges/crypto-parent.crypto-exchanges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-repository/crypto-parent.crypto-repository.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-repository/crypto-parent.crypto-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-rest-api/crypto-parent.crypto-rest-api.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-rest-api/crypto-parent.crypto-rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-services/crypto-parent.crypto-services.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-services/crypto-parent.crypto-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-strategies/crypto-parent.crypto-strategies.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-strategies/crypto-parent.crypto-strategies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-strategy-api/crypto-parent.crypto-strategy-api.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-strategy-api/crypto-parent.crypto-strategy-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-trading-api/crypto-parent.crypto-trading-api.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-trading-api/crypto-parent.crypto-trading-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-yaml-datastore/crypto-parent.crypto-yaml-datastore.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-yaml-datastore/crypto-parent.crypto-yaml-datastore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bxbot-exchange-api/cryptoparent.crypto-exchange-api.iml" filepath="$PROJECT_DIR$/.idea/modules/bxbot-exchange-api/cryptoparent.crypto-exchange-api.iml" />
+    </modules>
+  </component>
+</project>

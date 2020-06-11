@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="crypto-parent.crypto-services" />
+        <module name="crypto-parent.crypto-core" />
+        <module name="crypto-parent.crypto-yaml-datastore" />
+        <module name="crypto-parent.crypto-strategies" />
+        <module name="crypto-parent.crypto-repository" />
+        <module name="crypto-parent.crypto-app" />
+        <module name="crypto-parent.crypto-exchanges" />
+        <module name="crypto-parent.crypto-trading-api" />
+        <module name="crypto-parent.crypto-rest-api" />
+        <module name="crypto-parent.crypto-domain-objects" />
+        <module name="cryptoparent.crypto-exchange-api" />
+        <module name="crypto-parent.crypto-strategy-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bxbot-parent" target="1.8" />
+      <module name="bxbot-parent.bxbot-app.main" target="11" />
+      <module name="bxbot-parent.bxbot-app.test" target="11" />
+      <module name="bxbot-parent.bxbot-core.main" target="11" />
+      <module name="bxbot-parent.bxbot-core.test" target="11" />
+      <module name="bxbot-parent.bxbot-domain-objects.main" target="11" />
+      <module name="bxbot-parent.bxbot-domain-objects.test" target="11" />
+      <module name="bxbot-parent.bxbot-exchange-api.main" target="11" />
+      <module name="bxbot-parent.bxbot-exchange-api.test" target="11" />
+      <module name="bxbot-parent.bxbot-exchanges.integrationTest" target="11" />
+      <module name="bxbot-parent.bxbot-exchanges.main" target="11" />
+      <module name="bxbot-parent.bxbot-exchanges.test" target="11" />
+      <module name="bxbot-parent.bxbot-repository.main" target="11" />
+      <module name="bxbot-parent.bxbot-repository.test" target="11" />
+      <module name="bxbot-parent.bxbot-rest-api.main" target="11" />
+      <module name="bxbot-parent.bxbot-rest-api.test" target="11" />
+      <module name="bxbot-parent.bxbot-services.main" target="11" />
+      <module name="bxbot-parent.bxbot-services.test" target="11" />
+      <module name="bxbot-parent.bxbot-strategies.main" target="11" />
+      <module name="bxbot-parent.bxbot-strategies.test" target="11" />
+      <module name="bxbot-parent.bxbot-strategy-api.main" target="11" />
+      <module name="bxbot-parent.bxbot-strategy-api.test" target="11" />
+      <module name="bxbot-parent.bxbot-trading-api.main" target="11" />
+      <module name="bxbot-parent.bxbot-trading-api.test" target="11" />
+      <module name="bxbot-parent.bxbot-yaml-datastore.main" target="11" />
+      <module name="bxbot-parent.bxbot-yaml-datastore.test" target="11" />
+      <module name="crypto-parent.crypto-app" target="11" />
+      <module name="crypto-parent.crypto-core" target="11" />
+      <module name="crypto-parent.crypto-domain-objects" target="11" />
+      <module name="crypto-parent.crypto-exchanges" target="11" />
+      <module name="crypto-parent.crypto-repository" target="11" />
+      <module name="crypto-parent.crypto-rest-api" target="11" />
+      <module name="crypto-parent.crypto-services" target="11" />
+      <module name="crypto-parent.crypto-strategies" target="11" />
+      <module name="crypto-parent.crypto-strategy-api" target="11" />
+      <module name="crypto-parent.crypto-trading-api" target="11" />
+      <module name="crypto-parent.crypto-yaml-datastore" target="11" />
+      <module name="cryptoparent.crypto-exchange-api" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="crypto-parent.crypto-app" options="-parameters" />
+      <module name="crypto-parent.crypto-core" options="-parameters" />
+      <module name="crypto-parent.crypto-domain-objects" options="-parameters" />
+      <module name="crypto-parent.crypto-exchanges" options="-parameters" />
+      <module name="crypto-parent.crypto-repository" options="-parameters" />
+      <module name="crypto-parent.crypto-rest-api" options="-parameters" />
+      <module name="crypto-parent.crypto-services" options="-parameters" />
+      <module name="crypto-parent.crypto-strategies" options="-parameters" />
+      <module name="crypto-parent.crypto-strategy-api" options="-parameters" />
+      <module name="crypto-parent.crypto-trading-api" options="-parameters" />
+      <module name="crypto-parent.crypto-yaml-datastore" options="-parameters" />
+      <module name="cryptoparent.crypto-exchange-api" options="-parameters" />
+    </option>
+  </component>
+</project>

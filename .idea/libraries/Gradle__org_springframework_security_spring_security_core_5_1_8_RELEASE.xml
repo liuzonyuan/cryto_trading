@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.springframework.security:spring-security-core:5.1.8.RELEASE">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.1.8.RELEASE/5f6714eaee8aa16b46c29477fdf06b50c7159865/spring-security-core-5.1.8.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/5.1.8.RELEASE/2238be826cc300dd7375dbdbbed87acfb9122fe6/spring-security-core-5.1.8.RELEASE-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
